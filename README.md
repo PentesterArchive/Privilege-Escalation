@@ -1,5 +1,5 @@
 # Linux Privilege Escalation:
-  - Sudoers.
+  - [Sudoers](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/blob/main/Sudoers).
   * Cronjobs.
   + TR
 
