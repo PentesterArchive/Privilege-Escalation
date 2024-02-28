@@ -1,6 +1,7 @@
-Linux Privilege Escalation:
+# Linux Privilege Escalation:
   - Sudoers.
-  - Cronjobs.
+  * Cronjobs.
+  + TR
 
-Windows Privilege Escalation:
+# Windows Privilege Escalation:
   - UAC.
