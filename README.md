@@ -6,7 +6,6 @@
   - Capabilities.
 
 
-$\color{red}{\textsf{lorem ipsum}}$ 
 $\color{red}{\textsf{# [Linux Privilege Escalation](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/tree/main/Linux):}}$ 
 
 
