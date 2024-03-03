@@ -1,6 +1,6 @@
 # Linux Privilege Escalation:
   * Automatic Linux Privilege Escalation.
-  - [Sudoers](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/blob/main/Sudoers).
+  - [Sudoers].
   + Cronjobs.
   * Path hijacking.
   - Capabilities.
