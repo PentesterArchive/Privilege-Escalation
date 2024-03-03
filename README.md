@@ -5,8 +5,8 @@
   * [Path hijacking](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/blob/main/Linux/Path%20hijacking.).
   - Capabilities.
 
-<code style="color : red">text</code>
-<code style="color : green">text</code>
+text <code style="color : red">text</code>
+text <code style="color : green">text</code>
 
 
 
