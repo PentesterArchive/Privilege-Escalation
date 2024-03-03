@@ -7,6 +7,8 @@
 
 <code style="color : red"># [Linux Privilege Escalation](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/tree/main/Linux):</code>
 <code style="color : red">text</code>
+<code style="color : green">text</code>
+
 
 
 # [Windows Privilege Escalation](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/tree/main/Windows):
