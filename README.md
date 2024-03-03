@@ -5,9 +5,10 @@
   * [Path hijacking](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/blob/main/Linux/Path%20hijacking.).
   - Capabilities.
 
-text <code style="color : red">text</code>
-text <code style="color : green">text</code>
-$\color{red}{\textsf{lorem ipsum}}$ lorem ipsum 2
+
+$\color{red}{\textsf{lorem ipsum}}$ 
+$\color{red}{\textsf{# [Linux Privilege Escalation](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/tree/main/Linux):}}$ 
+
 
 # [Windows Privilege Escalation](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/tree/main/Windows):
   * [Automatic Windows Privilege Escalation](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/blob/main/Windows/Windows%20Post%20Exploitation%20Manual%20Enumeration).
