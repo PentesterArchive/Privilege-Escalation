@@ -5,7 +5,6 @@
   * [Path hijacking](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/blob/main/Linux/Path%20hijacking.).
   - Capabilities.
 
-<code style="color : red"># [Linux Privilege Escalation](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/tree/main/Linux):</code>
 <code style="color : red">text</code>
 <code style="color : green">text</code>
 
