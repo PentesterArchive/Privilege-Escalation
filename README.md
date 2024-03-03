@@ -6,7 +6,7 @@
   - Capabilities.
 
 
-$\color{red}{\textsf{[Linux Privilege Escalation](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/tree/main/Linux):}}$ 
+$\color{red}{\textsf{[Linux Privilege Escalation](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/tree/main/Linux)}}$ 
 
 
 # [Windows Privilege Escalation](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/tree/main/Windows):
