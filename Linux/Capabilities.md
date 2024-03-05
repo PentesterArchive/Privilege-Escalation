@@ -1,5 +1,5 @@
 # Capabilities enumeration
-`getcap -r / 2>/dev/null` -> Find and lists enabled capabilities on the system.
-`getcap "/usr/bin/<binarie>"` -> Shows the binarie capabilities.
+`getcap -r / 2>/dev/null` -> This command finds and lists enabled capabilities on the system.<br />
+`getcap "/usr/bin/<binary>"` -> Shows the capabilities of the binary.<br />
 
-After we have find the capabilities we can go to [gtfobins](https://gtfobins.github.io/) to explode it.
+After we have found the capabilities, we can refer to [GTFOBins](https://gtfobins.github.io/) to exploit them.<br />
