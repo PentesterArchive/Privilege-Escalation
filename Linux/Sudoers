@@ -1,1 +1,1 @@
-
+`sudo -l` -> Lists the privileges that the current user has on the system, specifically regarding the sudo command. When you run sudo -l, it checks the sudoers configuration file (typically located at /etc/sudoers) to determine what commands the current user is allowed to run with elevated privileges using sudo.<br />
