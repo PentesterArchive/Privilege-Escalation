@@ -1,3 +1,4 @@
+# Capabilities enumeration
 `getcap -r / 2>/dev/null` -> Find and lists enabled capabilities on the system.
 `getcap "/usr/bin/<binarie>"` -> Shows the binarie capabilities.
 
