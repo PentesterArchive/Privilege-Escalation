@@ -1,7 +1,7 @@
 # NFS Privilege Escalation
 ## How does it work?
 NFS privilege escalation involves _exploiting misconfigured NFS shares by mounting them locally_, manipulating files or directories within the share to gain unauthorized access or escalate privileges.
-In this example **we will create a shared suid script owned by our local system root, when we execute it in the target machine we will get root priviliges in the target too.**
+In this example ***we will create a shared suid script owned by our local system root, when we execute it in the target machine we will get root priviliges in the target too.***
 
 ## Enumeration.
 The `/etc/exports` file controls which file systems are exported to remote hosts and specifies options, we will execute it in the target machine. For the nfs privilege escalation we have to check for the no_root_Squash options.
