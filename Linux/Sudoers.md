@@ -4,7 +4,7 @@ After that we can try to check [gtfobins](https://gtfobins.github.io/) to see if
 commands as the sudo user.
 
 ## /etc/sudoers
-"If we have sufficient permissions, we can attempt to modify the /etc/sudoers file to gain additional privileges."
+If we have sufficient permissions, we can attempt to modify the /etc/sudoers file to gain additional privileges.
 `user ALL=(ALL:ALL) ALL`
 
 
