@@ -12,7 +12,7 @@ In our machine we can check the file systems exported by the target running `sho
 ## Mounting.
 To do the mounting, we have to choose a folder on our local machine and run `mount -o rw <TargetIP>:<TargetMountFolder> <OurFolder>`
 ![3](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/assets/161533623/04064d0f-fa94-4438-9f51-dacdd6d8165e)
-After that, all the files we create on our local system will be shared with the target.
+After that, all the files we create in our chosen folder on our local system will be shared with the target.
 
 ## Privilege Escalation.
 After this process, we have to create a script [C PivEsc Script](https://github.com/alejandro-pentest/Fundamentals/blob/main/Privilege%20Escalation%20Code.md) _It's important to be root_ and give the right permissions `chmod +xs <script>`. When we go return to the target machine, we can run it and check our privileges.
