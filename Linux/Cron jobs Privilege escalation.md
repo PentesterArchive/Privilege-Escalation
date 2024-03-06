@@ -1,7 +1,7 @@
 # Cron jobs enumeration
-`crontab -l` -> This command lists our user cron jobs.
-`cat /etc/crontab` -> Displays the contents of the /etc/crontab file, which contains scheduled tasks.
-`ls -la /etc/cron*` ->  Lists files and directories in the /etc directory starting with "cron".
+`crontab -l` -> This command lists our user cron jobs.<br />
+`cat /etc/crontab` -> Displays the contents of the /etc/crontab file, which contains scheduled tasks.<br />
+`ls -la /etc/cron*` ->  Lists files and directories in the /etc directory starting with "cron".<br />
 
 # Cron jobs exploitation
 ## Cron jobs exploitation 1
