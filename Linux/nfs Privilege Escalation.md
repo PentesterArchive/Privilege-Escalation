@@ -16,3 +16,9 @@ After that, all the files we create in our chosen folder on our local system wil
 
 ## Privilege Escalation.
 After this process, we have to create a script [C PivEsc Script](https://github.com/alejandro-pentest/Fundamentals/blob/main/Privilege%20Escalation%20Code.md) _It's important to be root_ and give the right permissions `chmod +xs <script>`. When we go return to the target machine, we can run it and check our privileges.
+
+# Umount
+The umount command in Linux is used to unmount a currently mounted filesystem. It is used to detach the filesystem from the directory tree.
+`umount <mountPath>` -> This command unmounts the filesystem mounted at the specified <mountPath>.
+`umount -l <mountPath>` -> This performs a lazy unmount, which means it detaches the filesystem from the directory tree, but does not free up the associated resources until they are no longer in use.
+`umount -f <mountPath>` -> This forces the unmount, even if the filesystem is busy.
