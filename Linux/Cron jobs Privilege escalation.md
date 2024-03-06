@@ -11,8 +11,8 @@ Using this technique we can easily create a reverse shell.[Reverse shell](https:
 
 ## Cron jobs exploitation 2
 In some situations we can find an existing cron job where the script is deleted.
-If the full path of the script is not defined cron will refer to the paths listed under the PATH variable <br />
-in the /etc/crontab file. In this case, we should be able to create a script under our user’s home folder<br />
+If the full path of the script is not defined cron will refer to the paths listed under the PATH variable 
+in the /etc/crontab file. In this case, we should be able to create a script under our user’s home folder
 and it should be run by the cron job owner.
 
 
