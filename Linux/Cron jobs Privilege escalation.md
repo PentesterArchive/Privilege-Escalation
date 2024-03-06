@@ -16,4 +16,4 @@ in the /etc/crontab file. In this case, we should be able to create a script und
 and it should be run by the cron job owner.
 
 
-<img src=https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/assets/161533623/5e0a3d91-a4ed-4fd4-9216-dd247cb8dd06 width="400" height="200">
+<img src=https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/assets/161533623/5e0a3d91-a4ed-4fd4-9216-dd247cb8dd06 width="350" height="200">
