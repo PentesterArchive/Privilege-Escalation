@@ -14,4 +14,6 @@ In some situations we can find an existing cron job where the script is deleted.
 If the full path of the script is not defined cron will refer to the paths listed under the PATH variable <br />
 in the /etc/crontab file. In this case, we should be able to create a script under our user’s home folder<br />
 and it should be run by the cron job owner.
-![1](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/assets/161533623/5e0a3d91-a4ed-4fd4-9216-dd247cb8dd06 =50x50)
+
+
+<img src=https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/assets/161533623/5e0a3d91-a4ed-4fd4-9216-dd247cb8dd06 width="100" height="100">
