@@ -1,9 +1,9 @@
 # [Linux Privilege Escalation](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/tree/main/Linux):
   * Automatic Linux Privilege Escalation.
-  - [Sudoers](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/blob/main/Linux/Sudoers).
-  + [Escalation via Cron jobs](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/blob/main/Linux/Cron%20jobs%20Privilege%20escalation).
-  * [Path hijacking](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/blob/main/Linux/Path%20hijacking.).
-  - Capabilities.
+  - [Sudoers](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/blob/main/Linux/Sudoers.md).
+  + [Privilege Escalation via Cron jobs](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/blob/main/Linux/Cron%20jobs%20Privilege%20escalation.md).
+  * [Path hijacking](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/blob/main/Linux/Path%20hijacking.md).
+  - [Capabilities](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/blob/main/Linux/Capabilities.md).
 
 
 
