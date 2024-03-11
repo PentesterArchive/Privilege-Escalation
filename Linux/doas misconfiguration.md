@@ -1,4 +1,4 @@
-# doas Privilege escalation.
+# doas misconfiguration.
 Doas ***executes arbitrary commands as another user***. It's similar to sudo command. doas.conf is interesting to privilege escalation.
 
 ## Doas enumeration: 
