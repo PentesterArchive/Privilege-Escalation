@@ -9,7 +9,7 @@
 - [Doas misconfiguration.](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/blob/main/Linux/doas%20misconfiguration.md)
 + [NFS Privilege Escalation.](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/blob/main/Linux/nfs%20Privilege%20Escalation.md)
 - [Groups Privilege Escalation](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/tree/main/Linux/Groups%20Privilege%20Escalation)
-  - [lxd Group PE.](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/tree/main/Linux/Groups%20Privilege%20Escalation)
+  - [lxd Group PE.](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/blob/main/Linux/Groups%20Privilege%20Escalation/lxd%20Group%20PE.md)
 
 
 # [Windows Privilege Escalation](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/tree/main/Windows):
