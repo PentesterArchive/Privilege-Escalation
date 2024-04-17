@@ -2,6 +2,7 @@
 * Automatic Linux Privilege Escalation.
 - [Password Cracking.](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/tree/main/Linux/Password%20Cracking)
   * [Su Brute Force.](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/blob/main/Linux/Password%20Cracking/Su%20Brute%20Force.md)
+  - teraus
 - Sudo version.
 + Kernel exploitation.
 * [Sudoers](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/blob/main/Linux/Sudoers.md).
