@@ -6,4 +6,4 @@
 - Printing binaries and their exploitation (in case they create files on the machine)
 - Try and exploit found custom SUID binaries which won't impact machine's files
 
-(Anon-Exploiter - SUID3NUM)[https://github.com/Anon-Exploiter/SUID3NUM/tree/master]
+[Anon-Exploiter - SUID3NUM](https://github.com/Anon-Exploiter/SUID3NUM/tree/master)
