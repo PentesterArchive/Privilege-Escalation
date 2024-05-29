@@ -1,4 +1,4 @@
-#audit
+# audit
 The Linux kernel logs a lot of things but by default it doesn't log TTY input. The audit log allows sysadmins to log this. If logging of TTY input is enabled, any</br> 
 input including passwords are stored hex-encoded inside /var/log/audit/audit.log . We can decode these values manually or use the aureport utility to query and retrieve</br>
 records of TTY input. To learn more about PAM TTY see this page. Let's query all TTY logs.</br>
