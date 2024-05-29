@@ -1,0 +1,8 @@
+# audit
+The Linux kernel logs a lot of things but by default it doesn't log TTY input. The audit log allows sysadmins to log this. If logging of TTY input is enabled, any</br> 
+input including passwords are stored hex-encoded inside /var/log/audit/audit.log . We can decode these values manually or use the aureport utility to query and retrieve</br>
+records of TTY input. To learn more about PAM TTY see this page. Let's query all TTY logs.
+
+The TTY report reveals that the mrb3n user logged in with the password mrb3n_Ac@d3my! using su. Let's do the same. 
+(aureport - Install and use)[https://ubunlog.com/aureport-resumenes-registros-sistema/].
+[Creating Audit Reports - Red Hat](https://access.redhat.com/documentation/es-es/red_hat_enterprise_linux/7/html/security_guide/sec-creating_audit_reports).
