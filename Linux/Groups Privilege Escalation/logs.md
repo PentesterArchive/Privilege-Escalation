@@ -13,4 +13,9 @@ records of TTY input.
 - [Creating Audit Reports - Red Hat](https://access.redhat.com/documentation/es-es/red_hat_enterprise_linux/7/html/security_guide/sec-creating_audit_reports).</br></br>
 
 **The TTY report reveals that the mrb3n user logged in with the password mrb3n_Ac@d3my! using su. Let's do the same.** </br>
+```bash
+aureport --tty
+```
 ![3](https://github.com/alejandro-pentest/Hacking-Web/assets/161533623/c27f8560-36c8-4175-94be-eeb4d5bbe60d)
+
+![4](https://github.com/alejandro-pentest/Privilege-Escalation-Cheat-sheet/assets/161533623/8789c469-fd44-404e-88f2-901ae3e64e85)
