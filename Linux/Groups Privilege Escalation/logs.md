@@ -8,8 +8,6 @@ records of TTY input.
 
 ![2](https://github.com/alejandro-pentest/Hacking-Web/assets/161533623/358d69b8-c2b2-4d55-83a2-b1d0b189cf6d)
 
-<img src="https://github.com/alejandro-pentest/Hacking-Web/assets/161533623/358d69b8-c2b2-4d55-83a2-b1d0b189cf6d" width="600">
-
 
 The TTY report reveals that the mrb3n user logged in with the password mrb3n_Ac@d3my! using su. Let's do the same. </br>
 - [aureport - Install and use](https://ubunlog.com/aureport-resumenes-registros-sistema/).</bd>
