@@ -6,6 +6,7 @@
 `groups <user>`-> Ver el grupo del usuario que indiquemos.<br />
 
 ## Interesting Post-explotation files.<br />
+__If our target has a web server we have to search for passwords files like `.config`, `/var/www/html/search.php`.__
 `cat /etc/passwd` -> <br />
 `cat /etc/shadow` -> <br />
 `cat /etc/*issue` -> Identifies the sistem version.<br />
