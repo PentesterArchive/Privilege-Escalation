@@ -9,14 +9,14 @@ If we have write permissions in the `/etc/passwd` file we can perform two differ
 
 
 ## Creating a new user. 
-We can just write a new user with root privileges.
-`pentester:` -> Username.
-`:::` -> No password.
-`0:` -> User ID (UID). If UID = 0 means that our user has superuser privileges.
-`0:` -> Group ID (GID). If GID = 0 means that we are part of the root group.
-`,,,::` -> Empty camps.
-`/:` -> Home directory.
-`/bin/bash` -> User shell.
+We can just write a new user with root privileges.<br />
+`pentester:` -> Username.<br />
+`:::` -> No password.<br />
+`0:` -> User ID (UID). If UID = 0 means that our user has superuser privileges.<br />
+`0:` -> Group ID (GID). If GID = 0 means that we are part of the root group.<br />
+`,,,::` -> Empty camps.<br />
+`/:` -> Home directory.<br />
+`/bin/bash` -> User shell.<br />
 ```bash
 pentester::0:0:,,,:/:/bin/bash
 ```
