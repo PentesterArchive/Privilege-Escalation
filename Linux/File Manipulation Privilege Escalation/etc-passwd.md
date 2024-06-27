@@ -1,5 +1,9 @@
 # /etc/passwd
 If we have write permissions in the `/etc/passwd` file we can perform two different types of attack.
+1. [Creating a new user.](#creating-a-new-user)
+2. [Changing root password.](#changing-root-password)
+
+
 
 ![0](https://github.com/PentesterArchive/Privilege-Escalation/assets/161533623/4f6daac4-2309-42c9-a56c-659b7b8e4ee7)
 
