@@ -13,5 +13,5 @@ We can manipulate the $PATH variable in several ways:
 `export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin`
 
 ## Path Hijacking Privilege Escalation
-If we find a script owned by a more privileged user that we can execute, we can exploit path hijacking to escalate privileges. By modifying the $PATH, we can manipulate which commands the script uses. For example, if the script executes whoami, we can change $PATH to `export PATH=/tmp` and create a custom whoami script in the `/tmp` directory that gives us elevated privileges `echo "/bin/bash" > whoami`. When we run the script, we will inherit the privileges of its owner.
+If we find a script owned by a more privileged user that we can execute, we can exploit path hijacking to escalate privileges. By modifying the $PATH, we can manipulate which commands the script uses. For example, if the script executes whoami, we can change $PATH to `export PATH=/tmp:$PATH` and create a custom whoami script in the `/tmp` directory that gives us elevated privileges `echo "/bin/bash" > whoami`. When we run the script, we will inherit the privileges of its owner.
 
