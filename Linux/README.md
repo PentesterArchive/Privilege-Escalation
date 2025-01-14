@@ -13,6 +13,7 @@ __If our target has a web server we have to search for passwords files like `.co
 `cat /etc/*release` -> Muestra aún mas información que el comando anterior sobre la distribución.<br />
 `cat /proc/version` -> Looking at /proc/version may give you information on the kernel version and additional data such as whether a compiler is installed.<br />
 `cat /etc/issue` -> This file usually contains some information about the operating system.<br />
+`config.php`
 
 ### Net enumeration<br />
 #### Netstat<br />
